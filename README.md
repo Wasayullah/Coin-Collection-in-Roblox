@@ -17,6 +17,6 @@ Steps:
          If you want to alter the scripts you can. Because all the scripts and elements are available in this repo 
 
 # Author
-This project is made and accomplished by Mohammad wasayullah
-[Wasayullah](https://github.com/Wasayullah)
+This project is made and accomplished by [Mohammad wasayullah](https://github.com/Wasayullah)
+
          
