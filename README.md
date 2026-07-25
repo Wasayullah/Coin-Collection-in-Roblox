@@ -77,8 +77,8 @@ The project contains the Roblox Studio game file along with the scripts and game
 ```text
 Coin-Collection-in-Roblox/
 │
+├── Elements/
 ├── Scripts/
-├── Game Objects/
 ├── Mohammad.rbxl
 └── README.md
 ```
